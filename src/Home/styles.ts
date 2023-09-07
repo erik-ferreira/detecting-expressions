@@ -5,4 +5,15 @@ export const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: "#121214",
   },
+
+  containerNotPermission: {
+    flex: 1,
+    backgroundColor: "#121214",
+    alignItems: "center",
+    justifyContent: "center",
+  },
+
+  camera: {
+    flex: 1,
+  },
 })
